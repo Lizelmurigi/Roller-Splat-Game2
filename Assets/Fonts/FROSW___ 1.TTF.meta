@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2fdb01dfe3f933c4a94321b9eecf1934
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Frostbitten Wanker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8c170c31d3e11604db0eb22d1b7d5e16, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
